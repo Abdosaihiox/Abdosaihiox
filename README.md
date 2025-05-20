@@ -1,61 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 I'm Abderrahmane Saihi</h1>
 
-<p align="left">
-I'm <strong>Abderrahmane Saihi</strong>, an Artificial Intelligence student based in Malaysia 🇲🇾, passionate about building impactful AI systems and smart real-world applications.
+<p align="center">
+🎓 AI Student | 🤖 Future Machine Learning Engineer | 🌐 Based in Malaysia  
 </p>
 
 ---
 
-<h2 align="left">🧠 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="left">
-✨ Writing code and solving problems since my university journey began<br>
-📚 Currently diving deeper into TensorFlow, PyTorch, and deploying AI models to the cloud<br>
-🎯 Ambition: To develop secure, scalable, and intelligent AI-powered solutions for real-world challenges<br>
-🎲 Fun fact: I enjoy turning complex technical ideas into clean, intuitive applications — often prototyping them in Figma and Streamlit!
-</p>
-
----
-
-<h2 align="left">💻 I Code With</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</div>
+- 🧠 Final-year Artificial Intelligence student at Multimedia University (MMU)
+- 🔬 Building a Smart Attendance System using Face Recognition & Liveness Detection
+- 🌩️ Exploring AI deployment in cloud environments (AWS, Streamlit)
+- ✨ Passionate about clean code, beautiful design, and solving real-world problems
+- 🎯 Goal: Develop secure, intelligent, and user-centered AI solutions
 
 ---
 
-<h2 align="left">🎨 Design & Visualization Tools</h2>
+## 🔧 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit" />
-</div>
-
----
-
-<h2 align="left">📫 Let's Connect</h2>
-
-<p align="left">
-📧 Email: <a href="mailto:abdosaihiox@gemail.com">abdosaihiox@gemail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/abderrahmane-saihi-639367291">linkedin.com/in/abderrahmane-saihi-639367291</a>
-</p>
+| Language / Tool | Icon |  
+|-----------------|------|
+| **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> |
+| **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> |
+| **HTML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> |
+| **CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> |
+| **SQL / SQLite** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> |
+| **Flask** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/> |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> |
 
 ---
 
-<p align="center"><em>"Code with purpose. Build with impact."</em></p>
+## 🎨 Design & Visualization
+
+| Tool | Icon |
+|------|------|
+| **Figma** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/> |
+| **Canva** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30"/> |
+| **Streamlit** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30"/> |
+
+---
+
+## 📚 Currently Learning
+
+- ⚙️ **TensorFlow & PyTorch** for deep learning  
+- 🧠 **Face Recognition APIs** (InsightFace, MediaPipe)  
+- 🔐 **AES Encryption** for secure data handling  
+- ☁️ **Cloud deployment of AI systems**
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [abdosaihiox@gemail.com](mailto:abdosaihiox@gemail.com)  
+- 💼 LinkedIn: [linkedin.com/in/abderrahmane-saihi-639367291](https://www.linkedin.com/in/abderrahmane-saihi-639367291)
+
+---
+
+<p align="center"><em>"Code with purpose. Build with clarity. Learn endlessly."</em></p>
